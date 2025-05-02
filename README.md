@@ -33,10 +33,14 @@ Tired of manually clearing your browser history for certain websites? This Chrom
 **Future Enhancements**
 
 🔹 Option to set custom cleanup intervals
+
 🔹 Notifications when history is cleared
+
 🔹 Support for wildcards (e.g., deleting all subdomains of a site)
 
-Contributing
+
+**Contributing**
+
 Feel free to contribute by submitting issues or feature requests! 🚀
 
 This makes your README cleaner, more structured, and more user-friendly! Want me to tweak anything further? 😊
